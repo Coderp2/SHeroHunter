@@ -1,5 +1,4 @@
-const apikey='0abea9489ed312b36e60348284426b07';
-const hash='d7c3aa115ee66a8e4081dd9325c0a7f9';
+
 const ts=1;
 let url=`http://gateway.marvel.com/v1/public/characters?ts=1&apikey=0abea9489ed312b36e60348284426b07&hash=d7c3aa115ee66a8e4081dd9325c0a7f9`;
 
